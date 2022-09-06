@@ -22,3 +22,7 @@
 - **No executable files**. An exception to this is when you get explicit permission from a staff member.
 ___________
 *Note: The rules are simply guidelines that are designed to give you a general idea on what you can and can't do in our server. As such, discretion will be used when moderating, which means you may still be punished for bad behaviour even if not specified here.*
+___________
+By rejoining, you are giving us explicit permission to store information including messages, message count, moderation history and anything else that we deem appropriate.
+
+This allows us to moderate effectively or implement certain bot functions, contains no personally identifable information and will not be shared with or sold to any external parties.
